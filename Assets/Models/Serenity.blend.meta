@@ -15,6 +15,15 @@ ModelImporter:
     100014: Plane_005
     100016: Cylinder
     100018: Cube_001
+    100020: CargobayDoor
+    100022: CargobayDoor_001
+    100024: CargobayDoor_002
+    100026: Catwalk
+    100028: CockpitControls
+    100030: Engine
+    100032: LowerDeck
+    100034: Quarters
+    100036: UpperDeck
     400000: //RootNode
     400002: Cube
     400004: Plane
@@ -25,6 +34,15 @@ ModelImporter:
     400014: Plane_005
     400016: Cylinder
     400018: Cube_001
+    400020: CargobayDoor
+    400022: CargobayDoor_001
+    400024: CargobayDoor_002
+    400026: Catwalk
+    400028: CockpitControls
+    400030: Engine
+    400032: LowerDeck
+    400034: Quarters
+    400036: UpperDeck
     2300000: //RootNode
     2300002: Cube
     2300004: Plane
@@ -35,6 +53,15 @@ ModelImporter:
     2300014: Plane_005
     2300016: Cylinder
     2300018: Cube_001
+    2300020: CargobayDoor
+    2300022: CargobayDoor_001
+    2300024: CargobayDoor_002
+    2300026: Catwalk
+    2300028: CockpitControls
+    2300030: Engine
+    2300032: LowerDeck
+    2300034: Quarters
+    2300036: UpperDeck
     3300000: //RootNode
     3300002: Cube
     3300004: Plane
@@ -45,6 +72,15 @@ ModelImporter:
     3300014: Plane_005
     3300016: Cylinder
     3300018: Cube_001
+    3300020: CargobayDoor
+    3300022: CargobayDoor_001
+    3300024: CargobayDoor_002
+    3300026: Catwalk
+    3300028: CockpitControls
+    3300030: Engine
+    3300032: LowerDeck
+    3300034: Quarters
+    3300036: UpperDeck
     4300000: Plane
     4300002: Cube
     4300004: Plane_001
@@ -54,6 +90,15 @@ ModelImporter:
     4300012: Plane_005
     4300014: Cylinder
     4300016: Cube_001
+    4300018: CockpitControls
+    4300020: Engine
+    4300022: Quarters
+    4300024: Catwalk
+    4300026: LowerDeck
+    4300028: CargobayDoor_002
+    4300030: CargobayDoor_001
+    4300032: CargobayDoor
+    4300034: UpperDeck
     7400000: Default Take
     9500000: //RootNode
   materials:
