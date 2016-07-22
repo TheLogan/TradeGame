@@ -28,3 +28,26 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Gizmos/PlayMakerFSM Icon.tiff
+Assets/Gizmos/PlayMakerFSM Icon.tiff.meta
+Assets/Gizmos/PlayMakerGUI Icon.tiff
+Assets/Gizmos/PlayMakerGUI Icon.tiff.meta
+Assets/Gizmos/PlayMakerGlobals Icon.tiff
+Assets/Gizmos/PlayMakerGlobals Icon.tiff.meta
+Assets/Gizmos/PlaymakerIcon.tiff
+Assets/Gizmos/PlaymakerIcon.tiff.meta
+Assets/UFPS/
+Assets/TradeSys/TSVars.cs
+Assets/TradeSys/
+Assets/Plugins/PlayMaker.meta
+Assets/Plugins/PlayMaker/PlayMaker.dll
+Assets/Plugins/PlayMaker/PlayMaker.dll.meta
+Assets/Plugins/PlayMaker/WP8.meta
+Assets/Plugins/PlayMaker/WP8/PlayMaker.dll
+Assets/Plugins/PlayMaker/WP8/PlayMaker.dll.meta
+Assets/Plugins/PlayMaker/WebGL.meta
+Assets/Plugins/PlayMaker/WebGL/PlayMaker.dll
+Assets/Plugins/PlayMaker/WebGL/PlayMaker.dll.meta
+Assets/PlayMaker/
+Assets/JsonDotNet/
+Assets/InventorySystem/
